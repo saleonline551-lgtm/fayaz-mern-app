@@ -45,7 +45,7 @@ function App() {
               onChange={(e) => setEmail(e.target.value)}
             />
 
-            <button type="submit">Save User</button>
+            <button type="submit">Submit</button>
           </form>
         </div>
       </div>
