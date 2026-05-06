@@ -8,7 +8,7 @@ function App() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const response = await fetch("https://fayaz-mern-app.onrender.com", {
+    const response = await fetch("https://fayaz-mern-app.onrender.com/add-user", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
