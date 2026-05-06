@@ -28,7 +28,7 @@ function App() {
     <div className="container">
       <div className="hero">
         <div className="card">
-          <h1>contact to Engtrix</h1>
+          <h1>contact to Engitrix</h1>
 
           <form onSubmit={handleSubmit}>
             <input
